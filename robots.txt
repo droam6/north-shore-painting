@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /landing/
+
+Sitemap: https://northshorepainting.com.au/sitemap.xml
