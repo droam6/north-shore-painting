@@ -14,7 +14,7 @@
 - Forked NORTH-SHORE-TILING into NORTH-SHORE-PAINTING with fresh git history
 - Created new painting homepage (index.html) with painting-specific services, trust bar, FAQ, and gallery placeholders
 - Accent colour changed from gold (#C19A6B) to warm orange (#E07B39) in CSS variables
-- Domain: northshoretiling.com.au → northshorepaints.com.au across all files
+- Domain: northshoretiles.com.au → northshorepaints.com.au across all files
 - Branding: "North Shore Tiling" → "North Shore Painting"
 - Email: northshoretiling8@gmail.com → northshorepainting@gmail.com
 - Logo: NSTLOGO-HD-FINAL.png → NSPAINTLOGO-HD-FINAL.png
@@ -22,7 +22,7 @@
 - 17 suburb pages renamed from tiling-* to painting-* with painting-specific content
 - 2 painting blog posts created (replacing tiling articles)
 - Landing page renamed from landing/tiling.html → landing/painting.html
-- Redirect pages: tiling.html → northshoretiling.com.au, cleaning.html → northshorecleans.com.au, northshore-removals.html → northshoreremovals.com
+- Redirect pages: tiling.html → northshoretiles.com.au, cleaning.html → northshorecleans.com.au, northshore-removals.html → northshoreremovals.com
 - Nav structure: Painting → index.html (homepage), Tiling → tiling.html (redirect to sister site)
 - Tiling images and videos deleted
 
