@@ -16,7 +16,7 @@
 | Email: northshorepainting@gmail.com | Done | All contact sections, JSON-LD |
 | Logo: NSPAINTLOGO-HD-FINAL.png | Done | Navbar, footer, hero across all pages |
 | Instagram: @northshorepainting | Done | Nav, mobile menu, footer |
-| Redirect pages | Done | tiling.html → northshoretiling.com.au, cleaning.html → northshorecleaning.com.au, northshore-removals.html → northshoreremovals.com |
+| Redirect pages | Done | tiling.html → northshoretiling.com.au, cleaning.html → northshorecleans.com.au, northshore-removals.html → northshoreremovals.com |
 | 17 painting suburb pages | Done | Renamed from tiling-*, content adapted for painting services |
 | 2 painting blog posts | Done | Colour selection guide + interior vs exterior paint |
 | Landing page | Done | landing/painting.html (was landing/tiling.html) |

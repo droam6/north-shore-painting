@@ -22,7 +22,7 @@
 - 17 suburb pages renamed from tiling-* to painting-* with painting-specific content
 - 2 painting blog posts created (replacing tiling articles)
 - Landing page renamed from landing/tiling.html → landing/painting.html
-- Redirect pages: tiling.html → northshoretiling.com.au, cleaning.html → northshorecleaning.com.au, northshore-removals.html → northshoreremovals.com
+- Redirect pages: tiling.html → northshoretiling.com.au, cleaning.html → northshorecleans.com.au, northshore-removals.html → northshoreremovals.com
 - Nav structure: Painting → index.html (homepage), Tiling → tiling.html (redirect to sister site)
 - Tiling images and videos deleted
 
