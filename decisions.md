@@ -8,13 +8,13 @@
 
 ## D22: Site Split — Painting-Only Repo from NORTH-SHORE-TILING
 
-**Decision:** Create the NORTH-SHORE-PAINTING repo by forking from NORTH-SHORE-TILING (which was itself forked from NORTH-SHORE-PROJECTS), then adapting all content for painting services at `northshorepainting.com.au`.
+**Decision:** Create the NORTH-SHORE-PAINTING repo by forking from NORTH-SHORE-TILING (which was itself forked from NORTH-SHORE-PROJECTS), then adapting all content for painting services at `northshorepaints.com.au`.
 
 **What changed:**
 - Forked NORTH-SHORE-TILING into NORTH-SHORE-PAINTING with fresh git history
 - Created new painting homepage (index.html) with painting-specific services, trust bar, FAQ, and gallery placeholders
 - Accent colour changed from gold (#C19A6B) to warm orange (#E07B39) in CSS variables
-- Domain: northshoretiling.com.au → northshorepainting.com.au across all files
+- Domain: northshoretiling.com.au → northshorepaints.com.au across all files
 - Branding: "North Shore Tiling" → "North Shore Painting"
 - Email: northshoretiling8@gmail.com → northshorepainting@gmail.com
 - Logo: NSTLOGO-HD-FINAL.png → NSPAINTLOGO-HD-FINAL.png

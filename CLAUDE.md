@@ -5,7 +5,7 @@
 
 ## Business
 - **Name:** North Shore Painting
-- **Domain:** https://northshorepainting.com.au
+- **Domain:** https://northshorepaints.com.au
 - **Service:** Painting (primary). Redirect pages link to sister sites for Tiling, Cleaning, and Removals.
 - **Area:** North Shore Sydney, NSW, Australia
 - **Phone:** 0433 333 332

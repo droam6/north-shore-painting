@@ -3,4 +3,4 @@ Allow: /
 Disallow: /api/
 Disallow: /landing/
 
-Sitemap: https://northshorepainting.com.au/sitemap.xml
+Sitemap: https://northshorepaints.com.au/sitemap.xml

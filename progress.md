@@ -11,7 +11,7 @@
 | Forked from NORTH-SHORE-TILING | Done | Clean copy, fresh git init |
 | Painting homepage created | Done | New index.html with painting services, trust bar, FAQ, gallery placeholders |
 | Accent colour: orange #E07B39 | Done | CSS variables updated from gold #C19A6B |
-| Domain: northshorepainting.com.au | Done | All canonical, OG, JSON-LD URLs updated |
+| Domain: northshorepaints.com.au | Done | All canonical, OG, JSON-LD URLs updated |
 | Branding: North Shore Painting | Done | Nav, footer, titles, JSON-LD |
 | Email: northshorepainting@gmail.com | Done | All contact sections, JSON-LD |
 | Logo: NSPAINTLOGO-HD-FINAL.png | Done | Navbar, footer, hero across all pages |
